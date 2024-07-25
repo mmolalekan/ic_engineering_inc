@@ -1,0 +1,13 @@
+/* static/css/admin_custom.css */
+
+/* Targeting the logo on the admin login page */
+.login .brand-logo img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Targeting the logo on the main admin interface */
+.brand-logo img {
+  width: 100px; /* Adjust the width as needed */
+  height: auto; /* Maintain aspect ratio */
+}

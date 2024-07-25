@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ic_engineering_inc/static/css/main.6574bae3.css",
+    "main.js": "/ic_engineering_inc/static/js/main.6d3d4418.js",
+    "static/media/description.jpg": "/ic_engineering_inc/static/media/description.3c0c4f3f218ab98e0f54.jpg",
+    "static/media/banner.jpg": "/ic_engineering_inc/static/media/banner.d357c48fa6043c824137.jpg",
+    "static/media/about.jpg": "/ic_engineering_inc/static/media/about.6089f83ab4c1b6a009e6.jpg",
+    "static/media/project management.jpg": "/ic_engineering_inc/static/media/project management.3795f326f30567ba4fd9.jpg",
+    "static/media/modifications.jpg": "/ic_engineering_inc/static/media/modifications.4e8bd797aba28da254f9.jpg",
+    "static/media/real estate2.jpg": "/ic_engineering_inc/static/media/real estate2.fb766332c69bb4b71540.jpg",
+    "static/media/structural design.jpg": "/ic_engineering_inc/static/media/structural design.b27d84a262ef4f921dcc.jpg",
+    "static/media/contact.jpg": "/ic_engineering_inc/static/media/contact.0f0f92c152b6af6e0184.jpg",
+    "static/media/real estate.jpg": "/ic_engineering_inc/static/media/real estate.cd051228a78984c63325.jpg",
+    "static/media/favicon.png": "/ic_engineering_inc/static/media/favicon.d0a3cbca4e91da1c050f.png",
+    "static/media/pic.jpg": "/ic_engineering_inc/static/media/pic.c5666e4380bf20f07798.jpg",
+    "static/media/slick.svg": "/ic_engineering_inc/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/ic_engineering_inc/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/ic_engineering_inc/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/ic_engineering_inc/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/ic_engineering_inc/index.html",
+    "main.6574bae3.css.map": "/ic_engineering_inc/static/css/main.6574bae3.css.map",
+    "main.6d3d4418.js.map": "/ic_engineering_inc/static/js/main.6d3d4418.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6574bae3.css",
+    "static/js/main.6d3d4418.js"
+  ]
+}
